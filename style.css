@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    background-color: rgb(201, 43, 43);
+    color: rgb(255, 255, 255);
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#navbar{
+    background-color: rgb(214, 17, 17);
+    padding: 10px;
+    color:rgb(255, 255, 255);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#icon{
+    width: 52px;
+    height: 52px;
+    margin-right: 10px;
+}
+
+#rodape{
+    text-align: center;
+    background-color: rgb(214, 17, 17);
+    padding: 10px;
+}
+
+#aliados{
+    background-color: rgb(187, 61, 61);
+    padding: 10px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+#aliados{
+    background-color: rgb(201, 43, 43);
+    padding: 3px;
+    border-style: solid;
+    border-color: rgb(160, 12, 12);
+    text-align: center;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagem_aliados{
+    height: 200px;
+    width: 300px;
+    border-style: solid;
+    border-color: bisque;
+}
+
+.imagem_viloes{
+    height: 200px;
+    width: 300px;
+}
+
+#MulherMaravilha{
+text-align: center;}
+
+#viloes{
+    background-color: rgb(187, 61, 61);
+    padding: 10px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+#viloes{
+    background-color: rgb(201, 43, 43);
+   
+
+    display: flex;
+    justify-content: space-around;
+}
+#sessao_aliados{
+    padding: 3px;
+    border-style: solid;
+    border-color: rgb(236, 171, 29);
+    text-align: center;
+}
+
+#sessao_viloes{
+    padding: 3px;
+    border-style: solid;
+    border-color: rgb(236, 171, 29);
+    text-align: center;
+}
