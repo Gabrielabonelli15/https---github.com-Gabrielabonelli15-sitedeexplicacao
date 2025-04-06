@@ -54,21 +54,10 @@ body{
     border-color: bisque;
 }
 
-.imagem_viloes{
-    height: 200px;
-    width: 300px;
-}
-
 #MulherMaravilha{
 text-align: center;}
 
-#viloes{
-    background-color: rgb(187, 61, 61);
-    padding: 10px;
 
-    display: flex;
-    justify-content: space-around;
-}
 
 #viloes{
     background-color: rgb(201, 43, 43);
@@ -78,13 +67,6 @@ text-align: center;}
     justify-content: space-around;
 }
 #sessao_aliados{
-    padding: 3px;
-    border-style: solid;
-    border-color: rgb(236, 171, 29);
-    text-align: center;
-}
-
-#sessao_viloes{
     padding: 3px;
     border-style: solid;
     border-color: rgb(236, 171, 29);
